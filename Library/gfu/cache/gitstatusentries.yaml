@@ -13,9 +13,39 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-06-06T00:18:18.562+01:00
+  lastUpdatedAtString: 2019-06-06T00:20:00.348+01:00
   initializedAtString: 2019-06-05T23:38:06.771+01:00
   entries:
+  - path: Assets\Player.prefab
+    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Assets\Player.prefab
+    projectPath: Assets\Player.prefab
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scenes\MainScene.unity
+    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Assets\Scenes\MainScene.unity
+    projectPath: Assets\Scenes\MainScene.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\ArtifactDB
+    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\ArtifactDB
+    projectPath: Library\ArtifactDB
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\Artifacts\Legacy\3f\3f4272ac8922ed5498b72d1eb1df6873
+    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\Artifacts\Legacy\3f\3f4272ac8922ed5498b72d1eb1df6873
+    projectPath: Library\Artifacts\Legacy\3f\3f4272ac8922ed5498b72d1eb1df6873
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\Artifacts\Legacy\3f\3f4272ac8922ed5498b72d1eb1df6873.info
+    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\Artifacts\Legacy\3f\3f4272ac8922ed5498b72d1eb1df6873.info
+    projectPath: Library\Artifacts\Legacy\3f\3f4272ac8922ed5498b72d1eb1df6873.info
+    originalPath: 
+    status: 3
+    staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
