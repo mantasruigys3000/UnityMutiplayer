@@ -13,27 +13,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-06-06T00:16:13.591+01:00
+  lastUpdatedAtString: 2019-06-06T00:18:18.562+01:00
   initializedAtString: 2019-06-05T23:38:06.771+01:00
   entries:
-  - path: .gitattributes
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\.gitattributes
-    projectPath: .gitattributes
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: .gitignore
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\.gitignore
-    projectPath: .gitignore
-    originalPath: 
-    status: 3
-    staged: 0
-  - path: ignore.gitignore
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ignore.gitignore
-    projectPath: ignore.gitignore
-    originalPath: 
-    status: 3
-    staged: 0
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -75,82 +57,4 @@ MonoBehaviour:
     projectPath: Library\SourceAssetDB
     originalPath: 
     status: 3
-    staged: 0
-  - path: ProjectSettings\NavMeshAreas.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\NavMeshAreas.asset
-    projectPath: ProjectSettings\NavMeshAreas.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\Physics2DSettings.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\Physics2DSettings.asset
-    projectPath: ProjectSettings\Physics2DSettings.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\PresetManager.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\PresetManager.asset
-    projectPath: ProjectSettings\PresetManager.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\ProjectSettings.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\ProjectSettings.asset
-    projectPath: ProjectSettings\ProjectSettings.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\ProjectVersion.txt
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\ProjectVersion.txt
-    projectPath: ProjectSettings\ProjectVersion.txt
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\QualitySettings.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\QualitySettings.asset
-    projectPath: ProjectSettings\QualitySettings.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\TagManager.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\TagManager.asset
-    projectPath: ProjectSettings\TagManager.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\TimeManager.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\TimeManager.asset
-    projectPath: ProjectSettings\TimeManager.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\UnityConnectSettings.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\UnityConnectSettings.asset
-    projectPath: ProjectSettings\UnityConnectSettings.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\VFXManager.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\VFXManager.asset
-    projectPath: ProjectSettings\VFXManager.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: ProjectSettings\XRSettings.asset
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\XRSettings.asset
-    projectPath: ProjectSettings\XRSettings.asset
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\ProcessJobs\ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Temp\ProcessJobs\ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
-    projectPath: Temp\ProcessJobs\ab30c7bcae888f8a20ac9ec5bfbfa3a6.bakert
-    originalPath: 
-    status: 1
-    staged: 0
-  - path: Temp\UnityLockfile
-    fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Temp\UnityLockfile
-    projectPath: Temp\UnityLockfile
-    originalPath: 
-    status: 1
     staged: 0

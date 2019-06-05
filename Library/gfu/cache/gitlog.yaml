@@ -13,9 +13,147 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-06-06T00:16:17.423+01:00
+  lastUpdatedAtString: 2019-06-06T00:18:17.708+01:00
   initializedAtString: 2019-06-05T23:38:03.860+01:00
   log:
+  - commitID: 9b17a9ffebb09fef9e42b892fdb841d5180c6fa7
+    mergeA: 
+    mergeB: 
+    authorName: Mantas
+    authorEmail: mantasruigys101@gmail.com
+    commitEmail: mantasruigys101@gmail.com
+    commitName: Mantas
+    summary: Yay
+    description: 
+    timeString: 2019-06-06T00:17:49.000+01:00
+    commitTimeString: 2019-06-06T00:17:49.000+01:00
+    changes:
+    - path: .gitattributes
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\.gitattributes
+      projectPath: .gitattributes
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: .gitignore
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\.gitignore
+      projectPath: .gitignore
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\SourceAssetDB
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\SourceAssetDB
+      projectPath: Library\SourceAssetDB
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: Library\gfu\cache\repoinfo.yaml
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\Library\gfu\cache\repoinfo.yaml
+      projectPath: Library\gfu\cache\repoinfo.yaml
+      originalPath: 
+      status: 3
+      staged: 0
+    - path: ProjectSettings\NavMeshAreas.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\NavMeshAreas.asset
+      projectPath: ProjectSettings\NavMeshAreas.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\Physics2DSettings.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\Physics2DSettings.asset
+      projectPath: ProjectSettings\Physics2DSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\PresetManager.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\PresetManager.asset
+      projectPath: ProjectSettings\PresetManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectSettings.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\ProjectSettings.asset
+      projectPath: ProjectSettings\ProjectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\ProjectVersion.txt
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\ProjectVersion.txt
+      projectPath: ProjectSettings\ProjectVersion.txt
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\QualitySettings.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\QualitySettings.asset
+      projectPath: ProjectSettings\QualitySettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TagManager.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\TagManager.asset
+      projectPath: ProjectSettings\TagManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\TimeManager.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\TimeManager.asset
+      projectPath: ProjectSettings\TimeManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\UnityConnectSettings.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\UnityConnectSettings.asset
+      projectPath: ProjectSettings\UnityConnectSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\VFXManager.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\VFXManager.asset
+      projectPath: ProjectSettings\VFXManager.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ProjectSettings\XRSettings.asset
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ProjectSettings\XRSettings.asset
+      projectPath: ProjectSettings\XRSettings.asset
+      originalPath: 
+      status: 4
+      staged: 0
+    - path: ignore.gitignore
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\ignore.gitignore
+      projectPath: ignore.gitignore
+      originalPath: 
+      status: 3
+      staged: 0
   - commitID: 7d863d33e843da678bd3b180c7cf97984b09ce01
     mergeA: 
     mergeB: 
