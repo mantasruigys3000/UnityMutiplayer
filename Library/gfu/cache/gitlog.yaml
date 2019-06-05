@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-06-06T00:07:46.677+01:00
+  initializedAtString: 2019-06-05T23:38:03.860+01:00
+  log:
+  - commitID: ac5a6347385bf78e7f3177e1ec70daa196f72f71
+    mergeA: 
+    mergeB: 
+    authorName: mantasruigys3000
+    authorEmail: 41921832+mantasruigys3000@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2019-06-05T23:53:53.000+01:00
+    commitTimeString: 2019-06-05T23:53:53.000+01:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\Mantas\Desktop\NetworkingServerTEST\MultiplayerTest\README.md
+      projectPath: README.md
+      originalPath: 
+      status: 4
+      staged: 0
